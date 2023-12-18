@@ -2,9 +2,9 @@
 
 
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=linjunnuo" width=500 /> </div>
 
-<div align="center">  <img src="https://ghchart.rshah.org/linjunnuo" alt="linjunnuo's Github chart" /> </div>
+
+<div align="center">  <img src="profile-3d-contrib/profile-night-rainbow.svg" /> </div>
 
 
 
