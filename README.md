@@ -1,9 +1,10 @@
-<div align="center"> <img src="ljn.png" width=700 /></div>
+# <div align="center"> <img src="ljn.png" width=700 /></div>
 
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=linjunnuo" width=700 /> </div>
 
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=linjunnuo" width=500 /> </div>
 
+<div align="center">  <img src="https://ghchart.rshah.org/linjunnuo" alt="linjunnuo's Github chart" /> </div>
 
 
 
